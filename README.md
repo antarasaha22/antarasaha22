@@ -1,7 +1,7 @@
 - 👩🏻‍🎓 Hi, I’m Antara Saha Computer Science Engineering Student
 - 👀 I’m interested in learning new technologies
 - 🌱 I’m currently learning
--     Data Structures and Algorithms on Leetcode
+      Data Structures and Algorithms on Leetcode
       Tools and technologies from React ecosystem
 - 💞️ I’m looking to collaborate on
 - 🧚🏻‍♀ 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : She/Her
